@@ -33,6 +33,7 @@ Before getting started, make sure you have the following:
 
 ## 2. SpawnPoint
 - This has to be placed a little above the ground. (That way no player has a chance of falling into the void)
+![image](https://github.com/marcor0311/unity-photon-pun-2/assets/110083517/4ddf0d27-44e8-4211-8650-47bb5ba8eca1)
 
 ## 3. RoomManager
 - This will manage the players that will spawn in the spawn point (it will make sense a bit ahead)
