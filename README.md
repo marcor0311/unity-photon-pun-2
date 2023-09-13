@@ -38,6 +38,7 @@ Before getting started, make sure you have the following:
 ## 3. RoomManager
 - This will manage the players that will spawn in the spawn point (it will make sense a bit ahead)
 - It is an empty object and it doesnt matter where it is placed.
+![image](https://github.com/marcor0311/unity-photon-pun-2/assets/110083517/bc9eca8a-5716-4343-a1a7-0a423f831411)
 
 ## 4. Player
 - Create a capsule and add a camera to the hierarchy (this is how the player will see)
