@@ -51,6 +51,7 @@ Before getting started, make sure you have the following:
 Insider RoomManager add the script from "Code" > "RoomManager". 
 In Player add the player prefab
 In Spawn Point add the SpawnPoint object
+![image](https://github.com/marcor0311/unity-photon-pun-2/assets/110083517/7e0288a2-9962-4538-b506-b8dbefad9541)
 
 ## Player Prefab
 Inside the player prefab include this exact configuration (Movement and Player Setup are inside the folder "Code" in this repository, the other scripts are from Photon)
