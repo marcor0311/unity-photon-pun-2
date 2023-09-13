@@ -24,6 +24,8 @@ Before getting started, make sure you have the following:
 - In Unity, go to "Window" > "Package Manager" > "My Assets."
 - Find the PUN 2, click "Download," and then "Import."
 - After importing the package it will ask for an app id, you have to generate it in the [Photon Pun 2 dashboard](https://www.photonengine.com/pun)
+- App id is the connection between the project and the server. So it is important that it is added.
+- You can also add it this way: "Window" > "Photon Unity Networking" > "PUN Wizard"
 
 # Objects
 ## 1. Plane
