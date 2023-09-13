@@ -29,6 +29,7 @@ Before getting started, make sure you have the following:
 ## 1. Plane
 - You will need a basic plane in the scene (also known as ground, it is where the players will walk)
 - Right-click "3D Object" > "Plane".
+![image](https://github.com/marcor0311/unity-photon-pun-2/assets/110083517/8e1b6b1f-6711-44b6-8cbe-712b853ce205)
 
 ## 2. SpawnPoint
 - This has to be placed a little above the ground. (That way no player has a chance of falling into the void)
