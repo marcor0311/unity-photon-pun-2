@@ -43,6 +43,8 @@ Before getting started, make sure you have the following:
 ## 4. Player
 - Create a capsule and add a camera to the hierarchy (this is how the player will see)
 - Then create a folder in Assets and name it "Resources". Grab the player from the scene and drop it in this folder. This will make the player a prefab
+![image](https://github.com/marcor0311/unity-photon-pun-2/assets/110083517/9a77b35f-1db1-4779-b3ec-97ce836193ba)
+![image](https://github.com/marcor0311/unity-photon-pun-2/assets/110083517/b9310f8f-b8e0-479c-8b66-ec2b63733282)
 
 # Scripts
 ## RoomManager
