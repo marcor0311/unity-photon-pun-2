@@ -1,5 +1,3 @@
-
-https://github.com/marcor0311/unity-photon-pun-2/assets/110083517/919eacc9-1a54-4aad-b1dc-86e430560d07
 # Unity Photon Pun 2
 
 This tutorial will guide you through integrating Photon Pun 2, which is used for multiplayer games and networking features. This guide assumes you are using Unity version 2021.3.5f1 and Agora Video SDK for Unity version 2.42.
@@ -66,9 +64,8 @@ Double-click the prefab, that way you will be able to access the inspector of th
 
 Now you should be able to do multiplayer activities, congrats :)
 # Here is a video of how it looks like
-Uploading Photon PC 2023-09-13 02-38-28.mp4…
-
-
+[Uploading Photon PC 2023-09-13 02-38-28.mp4…](https://github.com/marcor0311/unity-photon-pun-2/assets/110083517/919eacc9-1a54-4aad-b1dc-86e430560d07)
+![image](https://github.com/marcor0311/unity-photon-pun-2/assets/110083517/3a467d3b-c2b6-4149-87b3-d1c4433a2272)
 
 
 Return to the main repository: [Unity Essentials Repository](https://github.com/marcor0311/Unity-Essentials)
