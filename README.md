@@ -55,6 +55,9 @@ In Spawn Point add the SpawnPoint object
 
 ## Player Prefab
 Inside the player prefab include this exact configuration (Movement and Player Setup are inside the folder "Code" in this repository, the other scripts are from Photon)
+Double-click the prefab, that way you will be able to access the inspector of the player
+![image](https://github.com/marcor0311/unity-photon-pun-2/assets/110083517/6257f968-d455-4dfd-be62-2ce3b310da60)
+
 
 Now you should be able to do multiplayer activities, congrats :)
 
